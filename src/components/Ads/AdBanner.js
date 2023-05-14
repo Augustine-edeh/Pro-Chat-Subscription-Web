@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 
 function AdBanner() {
   useEffect(() => {
-    //ads loader
     window.googletag = window.googletag || { cmd: [] };
     window.googletag.cmd.push(function () {
       window.googletag
