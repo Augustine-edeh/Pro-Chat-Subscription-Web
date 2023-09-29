@@ -15,7 +15,7 @@ const Home = () => {
       <section className="flex flex-col items-center gap-4 max-w-6xl w-full">
         <div className="flex flex-col items-center justify-center backdrop-blur-sm pt-4 md:pt-0">
           <p className="text-textHeaderColor text-3xl text-center px-3">
-            Hello, Sir!
+            Hello, there!
           </p>
           <p className="text-transparent bg-clip-text bg-gradient-to-r from-btnGradientStart to-btnGradientEnd text-5xl font-bold pb-4 px-3 text-center">
             What are we gonna create today?
